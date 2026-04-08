@@ -1,0 +1,44 @@
+/*
+filename: styles.css
+author: Prit Vinesh Kumar
+created: 8/4/2026
+last modified: 8/4/2026
+description: CSS styling for HTML file in the lab project*/
+
+p {
+   font-family: Calibri, sans-serif;
+   color: #2F4F4F;
+}
+
+h1{
+    color: purple;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2{
+    color: rgb(0,128,128);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+aside, footer {
+    font-style: italic;
+}
+
+h1,h2,h3 {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border: 1px solid black;
+}
+
+#introduction {
+    text-align: center;
+}
+
+#images {
+    text-align: center;
+}
+
